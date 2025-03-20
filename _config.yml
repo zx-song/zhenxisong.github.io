@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US" #zh-CN
 site_theme               : "default"
-title                    : "Zhenxi Song"
+title                    : "Zhenxi's Homepage"
 title_separator          : "-"
 name                     : &name "Zhenxi Song"
 description              : &description "personal description"
